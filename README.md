@@ -1,1 +1,1 @@
-# CGNet
+# CGVF
